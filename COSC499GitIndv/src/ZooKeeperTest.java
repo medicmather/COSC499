@@ -25,4 +25,3 @@ public class ZooKeeperTest {
 			assertEquals(jim.getAge(),54);
 			assertEquals(joe.getAge(),36);
 		}
-}
