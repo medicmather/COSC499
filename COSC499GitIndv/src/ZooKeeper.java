@@ -15,6 +15,9 @@ public class ZooKeeper {
         return age;
     }
 
+    public String getName(){
+        return name;
+    }
     public String[] getSpeciesKeeper(){
         return speciesKeeper;
     }
