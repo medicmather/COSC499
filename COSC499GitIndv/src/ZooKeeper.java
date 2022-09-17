@@ -1,4 +1,4 @@
-
+//testing branching
 public class ZooKeeper {
 	private int age;
     private String name;
@@ -13,6 +13,9 @@ public class ZooKeeper {
     
     public int getAge(){
         return age;
+    }
+    public String getName(){
+        return name;
     }
 
     public String getName(){
